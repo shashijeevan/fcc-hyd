@@ -1,0 +1,46 @@
+/*custom CSS for countdown timer*/
+.countdown {
+  background-position: center;
+  background: url('../img/people.jpg');
+  background-size: cover;
+  background-color: #222222;
+}
+
+
+
+.countdown .jumbotron{
+  background: rgba(255,255,255,0.9);
+}
+
+.countdown h1 {
+  color: #FFF;
+  text-shadow: 0px 0px 10px rgba(0,0,0,0.52);
+  font-size: 3em;
+  margin-bottom: 1em;
+  margin-top: -1.5em;
+}
+
+.countdown h2 {
+  background: rgba(10, 100, 3, 0.8);
+  color: white;
+  padding: 10px;
+}
+
+.countdown h2 small {
+  color: lightgray;
+}
+
+.details {
+  background: rgba(10, 100, 3, 0.8);
+  color: white;
+  border-radius: 200px;
+  padding: 3px;
+}
+
+.details small {
+  color: lightgray;
+}
+
+hr {
+  width: 30em;
+}
